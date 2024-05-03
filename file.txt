@@ -1,2 +1,1 @@
 Hi! I’m practicing git today!
-remove third line to file.txt

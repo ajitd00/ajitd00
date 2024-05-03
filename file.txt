@@ -1,2 +1,2 @@
 Hi! I’m practicing git today!
-adding third line to file.txt
+remove third line to file.txt
